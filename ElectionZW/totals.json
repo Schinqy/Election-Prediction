@@ -1,0 +1,1258 @@
+{
+    "constituencies": [
+        {
+            "name": "Bulawayo North",
+            "zanu_pf_total": 2679,
+            "ccc_total": 10260,
+            "other_total": 356
+        },
+        {
+            "name": "Bulawayo South",
+            "zanu_pf_total": 3742,
+            "ccc_total": 10470,
+            "other_total": 0
+        },
+        {
+            "name": "Cowdray Park",
+            "zanu_pf_total": 6530,
+            "ccc_total": 8411,
+            "other_total": 0
+        },
+        {
+            "name": "Emakhandeni/ Luveve",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Entumbane/ Njube",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Lobengula/ Magwegwe",
+            "zanu_pf_total": 2400,
+            "ccc_total": 10114,
+            "other_total": 1789
+        },
+        {
+            "name": "Mpopoma/ Mzilikazi",
+            "zanu_pf_total": 2433,
+            "ccc_total": 10808,
+            "other_total": 1268
+        },
+        {
+            "name": "Nketa",
+            "zanu_pf_total": 2556,
+            "ccc_total": 10605,
+            "other_total": 1379
+        },
+        {
+            "name": "Nkulumane",
+            "zanu_pf_total": 0,
+            "ccc_total": 9880,
+            "other_total": 894
+        },
+        {
+            "name": "Pelandaba/ Tshabalala",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Pumula",
+            "zanu_pf_total": 2606,
+            "ccc_total": 9895,
+            "other_total": 580
+        },
+        {
+            "name": "Budiriro North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Budiriro South",
+            "zanu_pf_total": 3703,
+            "ccc_total": 17348,
+            "other_total": 148
+        },
+        {
+            "name": "Chitungwiza North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chitungwiza South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Churu",
+            "zanu_pf_total": 14205,
+            "ccc_total": 18463,
+            "other_total": 0
+        },
+        {
+            "name": "Dzivarasekwa",
+            "zanu_pf_total": 9227,
+            "ccc_total": 16453,
+            "other_total": 259
+        },
+        {
+            "name": "Epworth North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Epworth South",
+            "zanu_pf_total": 8112,
+            "ccc_total": 9926,
+            "other_total": 228
+        },
+        {
+            "name": "Glen Norah",
+            "zanu_pf_total": 4261,
+            "ccc_total": 17009,
+            "other_total": 214
+        },
+        {
+            "name": "Glenview North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Glenview South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Harare Central",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Harare East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Harare South",
+            "zanu_pf_total": 13560,
+            "ccc_total": 13002,
+            "other_total": 0
+        },
+        {
+            "name": "Harare West",
+            "zanu_pf_total": 3453,
+            "ccc_total": 21594,
+            "other_total": 0
+        },
+        {
+            "name": "Hatcliffe",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Hatfield",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Highfield",
+            "zanu_pf_total": 3789,
+            "ccc_total": 16857,
+            "other_total": 311
+        },
+        {
+            "name": "Hunyani",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Kuwadzana East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Kuwadzana West",
+            "zanu_pf_total": 5251,
+            "ccc_total": 20043,
+            "other_total": 272
+        },
+        {
+            "name": "Mabvuku/Tafara",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mbare",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mount Pleasant",
+            "zanu_pf_total": 7787,
+            "ccc_total": 18375,
+            "other_total": 0
+        },
+        {
+            "name": "Southerton",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "St Marys",
+            "zanu_pf_total": 7728,
+            "ccc_total": 16613,
+            "other_total": 0
+        },
+        {
+            "name": "Sunningdale",
+            "zanu_pf_total": 6236,
+            "ccc_total": 16122,
+            "other_total": 0
+        },
+        {
+            "name": "Warren Park",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Zengeza East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Zengeza West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Buhera Central",
+            "zanu_pf_total": 11220,
+            "ccc_total": 5276,
+            "other_total": 0
+        },
+        {
+            "name": "Buhera North",
+            "zanu_pf_total": 12258,
+            "ccc_total": 6756,
+            "other_total": 0
+        },
+        {
+            "name": "Buhera South",
+            "zanu_pf_total": 9222,
+            "ccc_total": 7912,
+            "other_total": 0
+        },
+        {
+            "name": "Buhera West",
+            "zanu_pf_total": 11087,
+            "ccc_total": 6967,
+            "other_total": 0
+        },
+        {
+            "name": "Chikanga",
+            "zanu_pf_total": 3853,
+            "ccc_total": 14237,
+            "other_total": 174
+        },
+        {
+            "name": "Chimanimani East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chimanimani West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chipinge Central",
+            "zanu_pf_total": 13133,
+            "ccc_total": 11148,
+            "other_total": 0
+        },
+        {
+            "name": "Chipinge East",
+            "zanu_pf_total": 12186,
+            "ccc_total": 8582,
+            "other_total": 213
+        },
+        {
+            "name": "Chipinge South",
+            "zanu_pf_total": 8090,
+            "ccc_total": 11039,
+            "other_total": 0
+        },
+        {
+            "name": "Dangamvura",
+            "zanu_pf_total": 6343,
+            "ccc_total": 17000,
+            "other_total": 221
+        },
+        {
+            "name": "Headlands",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Makoni Central",
+            "zanu_pf_total": 8503,
+            "ccc_total": 9644,
+            "other_total": 1760
+        },
+        {
+            "name": "Makoni North",
+            "zanu_pf_total": 12305,
+            "ccc_total": 6257,
+            "other_total": 0
+        },
+        {
+            "name": "Makoni South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Makoni West",
+            "zanu_pf_total": 10863,
+            "ccc_total": 5899,
+            "other_total": 549
+        },
+        {
+            "name": "Mutare Central",
+            "zanu_pf_total": 5010,
+            "ccc_total": 15628,
+            "other_total": 0
+        },
+        {
+            "name": "Mutare North",
+            "zanu_pf_total": 0,
+            "ccc_total": 7878,
+            "other_total": 0
+        },
+        {
+            "name": "Mutare South",
+            "zanu_pf_total": 12886,
+            "ccc_total": 10386,
+            "other_total": 0
+        },
+        {
+            "name": "Mutare West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mutasa Central",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mutasa North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mutasa South",
+            "zanu_pf_total": 11608,
+            "ccc_total": 10383,
+            "other_total": 0
+        },
+        {
+            "name": "Mutema-Musikavanhu",
+            "zanu_pf_total": 13717,
+            "ccc_total": 11475,
+            "other_total": 623
+        },
+        {
+            "name": "Nyanga North",
+            "zanu_pf_total": 13166,
+            "ccc_total": 8540,
+            "other_total": 735
+        },
+        {
+            "name": "Nyanga South",
+            "zanu_pf_total": 10327,
+            "ccc_total": 9574,
+            "other_total": 619
+        },
+        {
+            "name": "Bindura North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Bindura South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Guruve North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Guruve South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mazowe Central",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mazowe North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mazowe South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mazowe West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mbire",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mt Darwin East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mt Darwin North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mt Darwin South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mt Darwin West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Muzarabani North",
+            "zanu_pf_total": 21514,
+            "ccc_total": 1423,
+            "other_total": 0
+        },
+        {
+            "name": "Muzarabani South",
+            "zanu_pf_total": 22526,
+            "ccc_total": 1984,
+            "other_total": 0
+        },
+        {
+            "name": "Rushinga",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Shamva North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Shamva South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chirumanzu",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chirumanzu-Zibagwe",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Chireya",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Gumumyu",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Kabuyuni",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Nembudziya",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Central",
+            "zanu_pf_total": 12315,
+            "ccc_total": 11317,
+            "other_total": 593
+        },
+        {
+            "name": "Gokwe Kana",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Mapfungautsi",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Sengwa",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gokwe Sesame",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chiwundura",
+            "zanu_pf_total": 10890,
+            "ccc_total": 7266,
+            "other_total": 0
+        },
+        {
+            "name": "Gweru Urban",
+            "zanu_pf_total": 5422,
+            "ccc_total": 12450,
+            "other_total": 672
+        },
+        {
+            "name": "Mkoba South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mkoba North",
+            "zanu_pf_total": 4906,
+            "ccc_total": 12555,
+            "other_total": 248
+        },
+        {
+            "name": "Vungu",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Kwekwe Central",
+            "zanu_pf_total": 6541,
+            "ccc_total": 10993,
+            "other_total": 113
+        },
+        {
+            "name": "Mbizo",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Redcliff",
+            "zanu_pf_total": 12167,
+            "ccc_total": 10352,
+            "other_total": 316
+        },
+        {
+            "name": "Silobela",
+            "zanu_pf_total": 11674,
+            "ccc_total": 7783,
+            "other_total": 980
+        },
+        {
+            "name": "Zhombe",
+            "zanu_pf_total": 14055,
+            "ccc_total": 7482,
+            "other_total": 0
+        },
+        {
+            "name": "Mberengwa Central",
+            "zanu_pf_total": 17689,
+            "ccc_total": 3867,
+            "other_total": 0
+        },
+        {
+            "name": "Mberengwa East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mberengwa West",
+            "zanu_pf_total": 13795,
+            "ccc_total": 4815,
+            "other_total": 559
+        },
+        {
+            "name": "Shurugwi North",
+            "zanu_pf_total": 13919,
+            "ccc_total": 9094,
+            "other_total": 0
+        },
+        {
+            "name": "Shurugwi South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Zvishavane-Ngezi",
+            "zanu_pf_total": 12124,
+            "ccc_total": 11607,
+            "other_total": 328
+        },
+        {
+            "name": "Zvishavane Runde",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Beitbridge East",
+            "zanu_pf_total": 8635,
+            "ccc_total": 5626,
+            "other_total": 0
+        },
+        {
+            "name": "Beitbridge West",
+            "zanu_pf_total": 7332,
+            "ccc_total": 7428,
+            "other_total": 1114
+        },
+        {
+            "name": "Bulilima",
+            "zanu_pf_total": 7185,
+            "ccc_total": 6660,
+            "other_total": 983
+        },
+        {
+            "name": "Gwanda North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Gwanda South",
+            "zanu_pf_total": 7941,
+            "ccc_total": 5099,
+            "other_total": 539
+        },
+        {
+            "name": "Gwanda Tshitaudze",
+            "zanu_pf_total": 8671,
+            "ccc_total": 5839,
+            "other_total": 271
+        },
+        {
+            "name": "Insiza North",
+            "zanu_pf_total": 9716,
+            "ccc_total": 4837,
+            "other_total": 0
+        },
+        {
+            "name": "Insiza South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mangwe",
+            "zanu_pf_total": 6506,
+            "ccc_total": 7705,
+            "other_total": 0
+        },
+        {
+            "name": "Matobo",
+            "zanu_pf_total": 7366,
+            "ccc_total": 6219,
+            "other_total": 278
+        },
+        {
+            "name": "Matobo Mangwe",
+            "zanu_pf_total": 5046,
+            "ccc_total": 6701,
+            "other_total": 1880
+        },
+        {
+            "name": "Umzingwane",
+            "zanu_pf_total": 7416,
+            "ccc_total": 7232,
+            "other_total": 0
+        },
+        {
+            "name": "Binga North",
+            "zanu_pf_total": 9663,
+            "ccc_total": 13530,
+            "other_total": 751
+        },
+        {
+            "name": "Binga South",
+            "zanu_pf_total": 7258,
+            "ccc_total": 10967,
+            "other_total": 1567
+        },
+        {
+            "name": "Bubi",
+            "zanu_pf_total": 11208,
+            "ccc_total": 4672,
+            "other_total": 2635
+        },
+        {
+            "name": "Hwange Central",
+            "zanu_pf_total": 5157,
+            "ccc_total": 9167,
+            "other_total": 1047
+        },
+        {
+            "name": "Hwange East",
+            "zanu_pf_total": 8485,
+            "ccc_total": 8931,
+            "other_total": 684
+        },
+        {
+            "name": "Hwange West",
+            "zanu_pf_total": 7504,
+            "ccc_total": 7954,
+            "other_total": 2171
+        },
+        {
+            "name": "Lupane East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Lupane West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Nkayi North",
+            "zanu_pf_total": 5492,
+            "ccc_total": 3110,
+            "other_total": 4869
+        },
+        {
+            "name": "Nkayi South",
+            "zanu_pf_total": 5066,
+            "ccc_total": 6269,
+            "other_total": 576
+        },
+        {
+            "name": "Tsholotsho North",
+            "zanu_pf_total": 5798,
+            "ccc_total": 7571,
+            "other_total": 1312
+        },
+        {
+            "name": "Tsholotsho South",
+            "zanu_pf_total": 7885,
+            "ccc_total": 7111,
+            "other_total": 1533
+        },
+        {
+            "name": "Umguza",
+            "zanu_pf_total": 11718,
+            "ccc_total": 0,
+            "other_total": 8559
+        },
+        {
+            "name": "Chikomba East",
+            "zanu_pf_total": 12089,
+            "ccc_total": 6202,
+            "other_total": 159
+        },
+        {
+            "name": "Chikomba West",
+            "zanu_pf_total": 19620,
+            "ccc_total": 7860,
+            "other_total": 0
+        },
+        {
+            "name": "Goromonzi North",
+            "zanu_pf_total": 14546,
+            "ccc_total": 10881,
+            "other_total": 0
+        },
+        {
+            "name": "Goromonzi South",
+            "zanu_pf_total": 15216,
+            "ccc_total": 16312,
+            "other_total": 421
+        },
+        {
+            "name": "Goromonzi West",
+            "zanu_pf_total": 12072,
+            "ccc_total": 10692,
+            "other_total": 2139
+        },
+        {
+            "name": "Ruwa",
+            "zanu_pf_total": 9373,
+            "ccc_total": 16986,
+            "other_total": 0
+        },
+        {
+            "name": "Marondera Central",
+            "zanu_pf_total": 9714,
+            "ccc_total": 16475,
+            "other_total": 0
+        },
+        {
+            "name": "Marondera East",
+            "zanu_pf_total": 15221,
+            "ccc_total": 3566,
+            "other_total": 262
+        },
+        {
+            "name": "Marondera West",
+            "zanu_pf_total": 18297,
+            "ccc_total": 11106,
+            "other_total": 970
+        },
+        {
+            "name": "Mudzi North",
+            "zanu_pf_total": 15099,
+            "ccc_total": 2858,
+            "other_total": 0
+        },
+        {
+            "name": "Mudzi South",
+            "zanu_pf_total": 20653,
+            "ccc_total": 2376,
+            "other_total": 0
+        },
+        {
+            "name": "Mudzi West",
+            "zanu_pf_total": 18513,
+            "ccc_total": 1583,
+            "other_total": 0
+        },
+        {
+            "name": "Murewa North",
+            "zanu_pf_total": 14870,
+            "ccc_total": 7215,
+            "other_total": 1647
+        },
+        {
+            "name": "Murewa South",
+            "zanu_pf_total": 19657,
+            "ccc_total": 2902,
+            "other_total": 0
+        },
+        {
+            "name": "Murewa West",
+            "zanu_pf_total": 17733,
+            "ccc_total": 7271,
+            "other_total": 114
+        },
+        {
+            "name": "Mutoko East",
+            "zanu_pf_total": 19073,
+            "ccc_total": 3613,
+            "other_total": 0
+        },
+        {
+            "name": "Mutoko North",
+            "zanu_pf_total": 16132,
+            "ccc_total": 4031,
+            "other_total": 0
+        },
+        {
+            "name": "Mutoko South",
+            "zanu_pf_total": 17459,
+            "ccc_total": 4296,
+            "other_total": 0
+        },
+        {
+            "name": "Seke",
+            "zanu_pf_total": 13277,
+            "ccc_total": 14032,
+            "other_total": 235
+        },
+        {
+            "name": "Maramba Pfungwe",
+            "zanu_pf_total": 25757,
+            "ccc_total": 1448,
+            "other_total": 0
+        },
+        {
+            "name": "Uzumba",
+            "zanu_pf_total": 24588,
+            "ccc_total": 1977,
+            "other_total": 0
+        },
+        {
+            "name": "Wedza North",
+            "zanu_pf_total": 18762,
+            "ccc_total": 5711,
+            "other_total": 664
+        },
+        {
+            "name": "Wedza South",
+            "zanu_pf_total": 12563,
+            "ccc_total": 5822,
+            "other_total": 0
+        },
+        {
+            "name": "Chegutu East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chegutu West",
+            "zanu_pf_total": 11308,
+            "ccc_total": 13042,
+            "other_total": 1267
+        },
+        {
+            "name": "Mhondoro-Mubaira",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Norton",
+            "zanu_pf_total": 5017,
+            "ccc_total": 13089,
+            "other_total": 7518
+        },
+        {
+            "name": "Hurungwe Central",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Hurungwe East",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Hurungwe North",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Hurungwe West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Magunje",
+            "zanu_pf_total": 10121,
+            "ccc_total": 8422,
+            "other_total": 453
+        },
+        {
+            "name": "Kariba",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chinhoyi",
+            "zanu_pf_total": 10051,
+            "ccc_total": 15761,
+            "other_total": 145
+        },
+        {
+            "name": "Makonde",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mhangura",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Mhondoro-Ngezi",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Muzvezve",
+            "zanu_pf_total": 16754,
+            "ccc_total": 6425,
+            "other_total": 0
+        },
+        {
+            "name": "Chakari",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Kadoma Central",
+            "zanu_pf_total": 7956,
+            "ccc_total": 14940,
+            "other_total": 476
+        },
+        {
+            "name": "Sanyati",
+            "zanu_pf_total": 17474,
+            "ccc_total": 4843,
+            "other_total": 406
+        },
+        {
+            "name": "Zvimba East",
+            "zanu_pf_total": 15246,
+            "ccc_total": 15435,
+            "other_total": 0
+        },
+        {
+            "name": "Zvimba West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Zvimba South",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Zvimba North",
+            "zanu_pf_total": 20616,
+            "ccc_total": 5382,
+            "other_total": 0
+        },
+        {
+            "name": "Bikita East",
+            "zanu_pf_total": 9880,
+            "ccc_total": 7544,
+            "other_total": 0
+        },
+        {
+            "name": "Bikita South",
+            "zanu_pf_total": 11396,
+            "ccc_total": 6622,
+            "other_total": 0
+        },
+        {
+            "name": "Bikita West",
+            "zanu_pf_total": 11614,
+            "ccc_total": 7775,
+            "other_total": 774
+        },
+        {
+            "name": "Chiredzi Central",
+            "zanu_pf_total": 7832,
+            "ccc_total": 12342,
+            "other_total": 676
+        },
+        {
+            "name": "Chiredzi East",
+            "zanu_pf_total": 14265,
+            "ccc_total": 3922,
+            "other_total": 262
+        },
+        {
+            "name": "Chiredzi North",
+            "zanu_pf_total": 18696,
+            "ccc_total": 2584,
+            "other_total": 0
+        },
+        {
+            "name": "Chiredzi South",
+            "zanu_pf_total": 11552,
+            "ccc_total": 7528,
+            "other_total": 0
+        },
+        {
+            "name": "Chiredzi West",
+            "zanu_pf_total": 15054,
+            "ccc_total": 6554,
+            "other_total": 0
+        },
+        {
+            "name": "Chivi Central",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Chivi North",
+            "zanu_pf_total": 11769,
+            "ccc_total": 5905,
+            "other_total": 78
+        },
+        {
+            "name": "Chivi South",
+            "zanu_pf_total": 12874,
+            "ccc_total": 4617,
+            "other_total": 0
+        },
+        {
+            "name": "Gutu Central",
+            "zanu_pf_total": 13683,
+            "ccc_total": 6439,
+            "other_total": 0
+        },
+        {
+            "name": "Gutu East",
+            "zanu_pf_total": 7569,
+            "ccc_total": 4759,
+            "other_total": 4641
+        },
+        {
+            "name": "Gutu South",
+            "zanu_pf_total": 9960,
+            "ccc_total": 7116,
+            "other_total": 0
+        },
+        {
+            "name": "Gutu West",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Masvingo Central",
+            "zanu_pf_total": 9967,
+            "ccc_total": 7350,
+            "other_total": 0
+        },
+        {
+            "name": "Masvingo North",
+            "zanu_pf_total": 11467,
+            "ccc_total": 9147,
+            "other_total": 0
+        },
+        {
+            "name": "Masvingo South",
+            "zanu_pf_total": 11467,
+            "ccc_total": 5088,
+            "other_total": 0
+        },
+        {
+            "name": "Masvingo Urban",
+            "zanu_pf_total": 6513,
+            "ccc_total": 13042,
+            "other_total": 2009
+        },
+        {
+            "name": "Masvingo West",
+            "zanu_pf_total": 10472,
+            "ccc_total": 9458,
+            "other_total": 0
+        },
+        {
+            "name": "Mwenezi East",
+            "zanu_pf_total": 17234,
+            "ccc_total": 1910,
+            "other_total": 0
+        },
+        {
+            "name": "Mwenezi North",
+            "zanu_pf_total": 13945,
+            "ccc_total": 3373,
+            "other_total": 0
+        },
+        {
+            "name": "Mwenezi West",
+            "zanu_pf_total": 14391,
+            "ccc_total": 1054,
+            "other_total": 6495
+        },
+        {
+            "name": "Zaka Central",
+            "zanu_pf_total": 0,
+            "ccc_total": 0,
+            "other_total": 0
+        },
+        {
+            "name": "Zaka North",
+            "zanu_pf_total": 12620,
+            "ccc_total": 7079,
+            "other_total": 0
+        },
+        {
+            "name": "Zaka South",
+            "zanu_pf_total": 14163,
+            "ccc_total": 5536,
+            "other_total": 0
+        }
+    ]
+}

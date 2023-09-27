@@ -1,0 +1,3585 @@
+{
+    "Bulawayo North": [
+        {
+            "Candidate": "Gumede Minehle Ntandoyenkosi",
+            "Party": "CCC",
+            "Votes": "10260"
+        },
+        {
+            "Candidate": "Khumalo Sibonokuhle",
+            "Party": "DOP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mhlanga Frank",
+            "Party": "UZA",
+            "Votes": "356"
+        },
+        {
+            "Candidate": "Mkandla Nkosana",
+            "Party": "ZANU PF",
+            "Votes": "2679"
+        }
+    ],
+    "Bulawayo South": [
+        {
+            "Candidate": "Watson Nicola Jane",
+            "Party": "CCC",
+            "Votes": "10470"
+        },
+        {
+            "Candidate": "Gomba Admore",
+            "Party": "DOP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Modi Rajeshkumari",
+            "Party": "ZANU PF",
+            "Votes": "3742"
+        }
+    ],
+    "Cowdray Park": [
+        {
+            "Candidate": "Sibanda Pashor Raphael",
+            "Party": "CCC",
+            "Votes": "8411"
+        },
+        {
+            "Candidate": "Ncube Mthuli",
+            "Party": "ZANU PF",
+            "Votes": "6530"
+        }
+    ],
+    "Emakhandeni/ Luveve": [
+        {
+            "Candidate": "Bajila Collins Discent",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ncube Nicodemus M",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndlovu Khulumani",
+            "Party": "ZANC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Samuriwo Brian",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Entumbane/ Njube": [
+        {
+            "Candidate": "Dube Prince",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tshuma Dingilizwe",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chinamano Linda",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mugurasave Beauty",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndlovu Nqobizitha",
+            "Party": "ZANC",
+            "Votes": "0"
+        }
+    ],
+    "Lobengula/ Magwegwe": [
+        {
+            "Candidate": "Gono Ereck",
+            "Party": "CCC",
+            "Votes": "10114"
+        },
+        {
+            "Candidate": "Ndibali Innocent",
+            "Party": "EFF",
+            "Votes": "142"
+        },
+        {
+            "Candidate": "Khanye Lwazi",
+            "Party": "MRP",
+            "Votes": "782"
+        },
+        {
+            "Candidate": "Zivavose Godwin",
+            "Party": "UFP",
+            "Votes": "187"
+        },
+        {
+            "Candidate": "Dube Arnold",
+            "Party": "UZA",
+            "Votes": "101"
+        },
+        {
+            "Candidate": "Ncube Douglas",
+            "Party": "ZANC",
+            "Votes": "139"
+        },
+        {
+            "Candidate": "Ndhlovu Butholezwe",
+            "Party": "ZANU PF",
+            "Votes": "2400"
+        },
+        {
+            "Candidate": "Ndlovu Nigel",
+            "Party": "ZAPU",
+            "Votes": "438"
+        }
+    ],
+    "Mpopoma/ Mzilikazi": [
+        {
+            "Candidate": "Makaza Desmond",
+            "Party": "CCC",
+            "Votes": "10808"
+        },
+        {
+            "Candidate": "Sibanda Blessings",
+            "Party": "DOP",
+            "Votes": "54"
+        },
+        {
+            "Candidate": "Muzenda Sihle",
+            "Party": "F.A",
+            "Votes": "148"
+        },
+        {
+            "Candidate": "Mkandla Strike",
+            "Party": "INDEPENDENT",
+            "Votes": "107"
+        },
+        {
+            "Candidate": "Tapfumaneyi Pardon",
+            "Party": "INDEPENDENT",
+            "Votes": "570"
+        },
+        {
+            "Candidate": "Zvikwete Innocent Mbano",
+            "Party": "ZANC",
+            "Votes": "43"
+        },
+        {
+            "Candidate": "Masikati Admire Tonderai",
+            "Party": "ZANU PF",
+            "Votes": "2433"
+        },
+        {
+            "Candidate": "Ncube Bekezela",
+            "Party": "ZAPU",
+            "Votes": "346"
+        }
+    ],
+    "Nketa": [
+        {
+            "Candidate": "Manduna Obert",
+            "Party": "CCC",
+            "Votes": "10605"
+        },
+        {
+            "Candidate": "Ndlovu Vincent Bhala",
+            "Party": "INDEPENDENT",
+            "Votes": "1196"
+        },
+        {
+            "Candidate": "Dube Catherine",
+            "Party": "UZA",
+            "Votes": "183"
+        },
+        {
+            "Candidate": "Zidya Tavengwa",
+            "Party": "ZANU PF",
+            "Votes": "2556"
+        }
+    ],
+    "Nkulumane": [
+        {
+            "Candidate": "Moyo Desire",
+            "Party": "CCC",
+            "Votes": "9880"
+        },
+        {
+            "Candidate": "Mhlanga Adelaide",
+            "Party": "FREEZIM CONGRESS",
+            "Votes": "101"
+        },
+        {
+            "Candidate": "Mtetwa Floridah Deliah",
+            "Party": "UZA",
+            "Votes": "151"
+        },
+        {
+            "Candidate": "Bhebhe Nompilo",
+            "Party": "ZANC",
+            "Votes": "177"
+        },
+        {
+            "Candidate": "Murechu Freedom Phineas",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndlovu Andrew",
+            "Party": "ZAPU",
+            "Votes": "465"
+        }
+    ],
+    "Pelandaba/ Tshabalala": [
+        {
+            "Candidate": "Moyo Soneni",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Siziva Gift",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndlovu Gift",
+            "Party": "DOP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Maplanka Sanpoulus",
+            "Party": "EFF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Moyo Moureen",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Verenga Cecilia Melody",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Pumula": [
+        {
+            "Candidate": "Mahlangu Sichelesile",
+            "Party": "CCC",
+            "Votes": "7546"
+        },
+        {
+            "Candidate": "Mhlanga Albert",
+            "Party": "CCC",
+            "Votes": "2349"
+        },
+        {
+            "Candidate": "Msipha Memory",
+            "Party": "UZA",
+            "Votes": "64"
+        },
+        {
+            "Candidate": "Nsingo Pumulani",
+            "Party": "ZANU PF",
+            "Votes": "2606"
+        },
+        {
+            "Candidate": "Mkwananzi Trust Mazwi",
+            "Party": "ZAPU",
+            "Votes": "516"
+        }
+    ],
+    "Budiriro North": [
+        {
+            "Candidate": "Bizaliel Kennedy",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Gomwe Simbarashe Godwin",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mupundu Simbarashe",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Matsunga Susan",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Budiriro South": [
+        {
+            "Candidate": "Chigumbu Darlington Dzikamai",
+            "Party": "CCC",
+            "Votes": "17348"
+        },
+        {
+            "Candidate": "Husayihwevhu Wellington",
+            "Party": "UZA",
+            "Votes": "148"
+        },
+        {
+            "Candidate": "Mukweya Tatenda",
+            "Party": "ZANU-PF",
+            "Votes": "3703"
+        }
+    ],
+    "Chitungwiza North": [
+        {
+            "Candidate": "Chitoro Nyashadzashe Enock",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Machangara Spencer",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Sithole Godfrey Karakadzayi",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zambezi Shepherd Ignatius",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Chitungwiza South": [
+        {
+            "Candidate": "Dzvene Elvis",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kariramombe Shepherd",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mafuratidze Goodwell",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mavhunga Maxwell",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Churu": [
+        {
+            "Candidate": "Chikomo Traswell",
+            "Party": "CCC",
+            "Votes": "16004"
+        },
+        {
+            "Candidate": "Fundukwa Ephraim",
+            "Party": "ZANU-PF",
+            "Votes": "14205"
+        },
+        {
+            "Candidate": "Nyikadzino Tichaona",
+            "Party": "CCC",
+            "Votes": "2459"
+        }
+    ],
+    "Dzivarasekwa": [
+        {
+            "Candidate": "Chamatowa Lovemore",
+            "Party": "ZANU-PF",
+            "Votes": "9227"
+        },
+        {
+            "Candidate": "Kanzimbe Petronellah",
+            "Party": "UZA",
+            "Votes": "259"
+        },
+        {
+            "Candidate": "Mushoriwa Edwin",
+            "Party": "CCC",
+            "Votes": "16453"
+        }
+    ],
+    "Epworth North": [
+        {
+            "Candidate": "Chidewu Njodzi",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kandishaya Taurai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mhetu Togarepi Zivai",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Epworth South": [
+        {
+            "Candidate": "Bande Didymus",
+            "Party": "CCC",
+            "Votes": "1867"
+        },
+        {
+            "Candidate": "Baramasimbe Solomon",
+            "Party": "CCC",
+            "Votes": "1314"
+        },
+        {
+            "Candidate": "Chatambudza Kudakwashe Blessed",
+            "Party": "CCC",
+            "Votes": "6745"
+        },
+        {
+            "Candidate": "Mwabaya Priston",
+            "Party": "MDC-T",
+            "Votes": "228"
+        },
+        {
+            "Candidate": "Taedzwa Honour Mbofana",
+            "Party": "ZANU-PF",
+            "Votes": "8112"
+        }
+    ],
+    "Glen Norah": [
+        {
+            "Candidate": "Chikombo Wellington",
+            "Party": "CCC",
+            "Votes": "17009"
+        },
+        {
+            "Candidate": "Chisango Tichaona",
+            "Party": "UZA",
+            "Votes": "214"
+        },
+        {
+            "Candidate": "Mupindu Muchineripi",
+            "Party": "ZANU-PF",
+            "Votes": "4261"
+        }
+    ],
+    "Glenview North": [
+        {
+            "Candidate": "Chidziva Happymore",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chinodya Best",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mangachena Musekiwa",
+            "Party": "FREE ZIM CONGRESS",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Munyoro Abigail Valerie Tsitsi",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zamanga Witness Tumelo",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Glenview South": [
+        {
+            "Candidate": "Chinyadza Justice",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Hakata Grandmore",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Muchuwe Offard",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Harare Central": [
+        {
+            "Candidate": "Jimu Lovemore",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nyaningwe Irvine Hatitye",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zenda Nyasha Gift",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Harare East": [
+        {
+            "Candidate": "Gumbo Mavis",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Markham Allan Norman",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mlambo Garikai",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mutizwa Musarurwa Stewar",
+            "Party": "MDC-T",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Razaru Malvin",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Harare South": [
+        {
+            "Candidate": "Hasha Trouble",
+            "Party": "CCC",
+            "Votes": "4009"
+        },
+        {
+            "Candidate": "Kanupula Trymore",
+            "Party": "ZANU-PF",
+            "Votes": "13560"
+        },
+        {
+            "Candidate": "Magweta George",
+            "Party": "CCC",
+            "Votes": "1573"
+        },
+        {
+            "Candidate": "Musonza Dorothy",
+            "Party": "CCC",
+            "Votes": "7420"
+        }
+    ],
+    "Harare West": [
+        {
+            "Candidate": "Mamombe Joanah",
+            "Party": "CCC",
+            "Votes": "18141"
+        },
+        {
+            "Candidate": "Padzarondora Farai Michael",
+            "Party": "CCC",
+            "Votes": "3453"
+        },
+        {
+            "Candidate": "Zindoga Patrick Tendayi",
+            "Party": "ZANU-PF",
+            "Votes": "3453"
+        }
+    ],
+    "Hatcliffe": [
+        {
+            "Candidate": "Gumbo Agency",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mangwanya David",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mashongandoro Modock",
+            "Party": "DUZ",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mudambo Tongesayi",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Sande Lloyd",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Hatfield": [
+        {
+            "Candidate": "Chapinduka Clara",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Griza Admire Adam",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nyamakanga Paidamoyo",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nyamuronda Reway",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Highfield": [
+        {
+            "Candidate": "Mashonganyika Mike",
+            "Party": "ZANU-PF",
+            "Votes": "3789"
+        },
+        {
+            "Candidate": "Mavhudzi Donald",
+            "Party": "CCC",
+            "Votes": "16857"
+        },
+        {
+            "Candidate": "Mukunguma Luckson",
+            "Party": "MDC-T",
+            "Votes": "248"
+        },
+        {
+            "Candidate": "Ndawana Edina",
+            "Party": "FREE ZIM CONGRESS",
+            "Votes": "63"
+        }
+    ],
+    "Hunyani": [
+        {
+            "Candidate": "Baudi Pattence",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chinoputsa Lovemore",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Khumbula Terrence",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Masunga Sarvory Pedzisai",
+            "Party": "ZNRP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mnangagwa Tongai Mafidi",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Kuwadzana East": [
+        {
+            "Candidate": "Hwende Chalton",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kayemba Tendayi",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Majavhura Tellme",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mangwiro Urayayi",
+            "Party": "MDC-T",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Takawira Collen Munyaradzi",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Kuwadzana West": [
+        {
+            "Candidate": "Chimbalanga Jossam",
+            "Party": "INDEPENDENT",
+            "Votes": "272"
+        },
+        {
+            "Candidate": "Matambo Johnson",
+            "Party": "CCC",
+            "Votes": "20043"
+        },
+        {
+            "Candidate": "Mauka Tauya",
+            "Party": "ZANU-PF",
+            "Votes": "5251"
+        }
+    ],
+    "Mabvuku/Tafara": [
+        {
+            "Candidate": "Kufahakutizwi Munyaradzi Febion",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Sakupwanya Pedzai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Mbare": [
+        {
+            "Candidate": "Chamisa Starman",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Matinyanya Sunungukai Martin",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Mount Pleasant": [
+        {
+            "Candidate": "Gwasira Beadle Musatye",
+            "Party": "ZANU-PF",
+            "Votes": "7787"
+        },
+        {
+            "Candidate": "Machokoto Jonathan",
+            "Party": "CCC",
+            "Votes": "5510"
+        },
+        {
+            "Candidate": "Mahere Fadzayi",
+            "Party": "CCC",
+            "Votes": "12865"
+        }
+    ],
+    "Southerton": [
+        {
+            "Candidate": "Kunaka Jim",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nyandoro Bridget",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nyemba Maureen",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "St Marys": [
+        {
+            "Candidate": "Jinjika Norbet",
+            "Party": "ZANU-PF",
+            "Votes": "7728"
+        },
+        {
+            "Candidate": "Masarirevu Freddy Michael",
+            "Party": "CCC",
+            "Votes": "5519"
+        },
+        {
+            "Candidate": "Mazhindu Brighton",
+            "Party": "CCC",
+            "Votes": "11094"
+        }
+    ],
+    "Sunningdale": [
+        {
+            "Candidate": "Goremusandu Christmas",
+            "Party": "CCC",
+            "Votes": "2762"
+        },
+        {
+            "Candidate": "Kademaunga Maureen",
+            "Party": "CCC",
+            "Votes": "13360"
+        },
+        {
+            "Candidate": "Magweba Loice",
+            "Party": "ZANU-PF",
+            "Votes": "6236"
+        },
+        {
+            "Candidate": "Makaza Jonathan",
+            "Party": "UZA",
+            "Votes": "0"
+        }
+    ],
+    "Warren Park": [
+        {
+            "Candidate": "Chidawa Tafadzwa",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Hamauswa Shakespear",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "July Antony",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kutukwa Jonathan Fungayi",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Matika Energy Tanaka",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Musevenzi Julius",
+            "Party": "MDC-T",
+            "Votes": "0"
+        }
+    ],
+    "Zengeza East": [
+        {
+            "Candidate": "Chimbaira Goodrich",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Marume Donald Tinashe",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mutimbanyoka Kiven",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Zengeza West": [
+        {
+            "Candidate": "Chidakwa Simon",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zvaipa Innocent",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Buhera Central": [
+        {
+            "Candidate": "Kandenga Timothy",
+            "Party": "CCC",
+            "Votes": "5276"
+        },
+        {
+            "Candidate": "Matema Samson",
+            "Party": "ZANU PF",
+            "Votes": "11220"
+        }
+    ],
+    "Buhera North": [
+        {
+            "Candidate": "Guyo Phillip",
+            "Party": "ZANU PF",
+            "Votes": "12258"
+        },
+        {
+            "Candidate": "Magarangoma Julius",
+            "Party": "CCC",
+            "Votes": "6756"
+        }
+    ],
+    "Buhera South": [
+        {
+            "Candidate": "Hodhera Solomon",
+            "Party": "CCC",
+            "Votes": "7912"
+        },
+        {
+            "Candidate": "Mudekunye Ngonidzashe",
+            "Party": "ZANU PF",
+            "Votes": "9222"
+        }
+    ],
+    "Buhera West": [
+        {
+            "Candidate": "Mangwanya Herbert",
+            "Party": "CCC",
+            "Votes": "6967"
+        },
+        {
+            "Candidate": "Mugwadi Tafadzwa",
+            "Party": "ZANU PF",
+            "Votes": "11087"
+        },
+        {
+            "Candidate": "Tsvangirai Komborero",
+            "Party": "MDC-T",
+            "Votes": "0"
+        }
+    ],
+    "Chikanga": [
+        {
+            "Candidate": "Charamba Garikayi",
+            "Party": "NCA",
+            "Votes": "59"
+        },
+        {
+            "Candidate": "Gambureni Taurai",
+            "Party": "UZA",
+            "Votes": "115"
+        },
+        {
+            "Candidate": "Karenyi Lynette",
+            "Party": "CCC",
+            "Votes": "14237"
+        },
+        {
+            "Candidate": "Muchina Kenneth",
+            "Party": "ZANU-PF",
+            "Votes": "3853"
+        }
+    ],
+    "Chimanimani East": [
+        {
+            "Candidate": "Dube Innocent",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Sacco Joshua Kurt",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Chimanimani West": [
+        {
+            "Candidate": "Maposa Wilson",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Matiashe Canaan",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mushango Isaiah",
+            "Party": "NCA",
+            "Votes": "0"
+        }
+    ],
+    "Chipinge Central": [
+        {
+            "Candidate": "Dhlumo Livingstone",
+            "Party": "CCC",
+            "Votes": "11148"
+        },
+        {
+            "Candidate": "Machingura Raymore",
+            "Party": "ZANU PF",
+            "Votes": "13133"
+        }
+    ],
+    "Chipinge East": [
+        {
+            "Candidate": "Dhliwayo Lincoln",
+            "Party": "ZANU-PF",
+            "Votes": "12186"
+        },
+        {
+            "Candidate": "Mlambo Mathias Matewu",
+            "Party": "CCC",
+            "Votes": "8582"
+        },
+        {
+            "Candidate": "Mupaji Samuel",
+            "Party": "NCA",
+            "Votes": "213"
+        }
+    ],
+    "Chipinge South": [
+        {
+            "Candidate": "Hlatywayo Clifford",
+            "Party": "CCC",
+            "Votes": "11039"
+        },
+        {
+            "Candidate": "Maunde Army",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mlambo Ronald",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mupakati Takawira",
+            "Party": "NCA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Porusungazi Enock",
+            "Party": "ZANU-PF",
+            "Votes": "8090"
+        },
+        {
+            "Candidate": "Sithole Nelson",
+            "Party": "DUZ",
+            "Votes": "0"
+        }
+    ],
+    "Dangamvura": [
+        {
+            "Candidate": "Jani Clide",
+            "Party": "ZANU PF",
+            "Votes": "6343"
+        },
+        {
+            "Candidate": "Mutseyami Prosper Chapfiwa",
+            "Party": "CCC",
+            "Votes": "17000"
+        },
+        {
+            "Candidate": "Mwandunguza Lameck Mark",
+            "Party": "NCA",
+            "Votes": "221"
+        }
+    ],
+    "Headlands": [
+        {
+            "Candidate": "Mapfumo Farai Walter",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ziswa Valentine Tinodyanavo",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Lastone Julius",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Makoni Central": [
+        {
+            "Candidate": "Nyika Shepherd",
+            "Party": "ZANU-PF",
+            "Votes": "8503"
+        },
+        {
+            "Candidate": "Sagandira Patrick",
+            "Party": "CCC",
+            "Votes": "9644"
+        },
+        {
+            "Candidate": "Tekeshe David",
+            "Party": "MDC-T",
+            "Votes": "1760"
+        }
+    ],
+    "Makoni North": [
+        {
+            "Candidate": "Chitena Shepherd",
+            "Party": "CCC",
+            "Votes": "6257"
+        },
+        {
+            "Candidate": "Muwombi Joseph",
+            "Party": "ZANU-PF",
+            "Votes": "12305"
+        }
+    ],
+    "Makoni South": [
+        {
+            "Candidate": "Chenai Danmore Tinashe",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Muchauraya Pishai",
+            "Party": "DUZ",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nyakuedzwa Albert",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Makoni West": [
+        {
+            "Candidate": "Gonye Prince",
+            "Party": "INDEPENDENT",
+            "Votes": "549"
+        },
+        {
+            "Candidate": "Govha Godfrey Makwasha",
+            "Party": "CCC",
+            "Votes": "5899"
+        },
+        {
+            "Candidate": "Muswere Jenfan",
+            "Party": "ZANU-PF",
+            "Votes": "10863"
+        }
+    ],
+    "Mutare Central": [
+        {
+            "Candidate": "James Leslie Brian",
+            "Party": "CCC",
+            "Votes": "15628"
+        },
+        {
+            "Candidate": "Mupfumi Isau Fungai",
+            "Party": "ZANU-PF",
+            "Votes": "5010"
+        }
+    ],
+    "Mutare North": [
+        {
+            "Candidate": "Mahachi Admire",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Takabika Tendai",
+            "Party": "CCC",
+            "Votes": "7878"
+        }
+    ],
+    "Mutare South": [
+        {
+            "Candidate": "Dumbarimwe Tawanda",
+            "Party": "ZANU-PF",
+            "Votes": "12886"
+        },
+        {
+            "Candidate": "Saunyama Fungai Mackenzie",
+            "Party": "CCC",
+            "Votes": "10386"
+        }
+    ],
+    "Mutare West": [
+        {
+            "Candidate": "Marange Nyasha",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Munjoma Thomas Dr",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nemasasi Prayer",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mutasa Central": [
+        {
+            "Candidate": "Benza Innocent Dambudzo",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chekecheke Dixson",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mutasa North": [
+        {
+            "Candidate": "Bvute Obey",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chitsara Godfrey",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mutasa South": [
+        {
+            "Candidate": "Mugadza Misheck",
+            "Party": "ZANU-PF",
+            "Votes": "11608"
+        },
+        {
+            "Candidate": "Tsunga Regai",
+            "Party": "CCC",
+            "Votes": "10383"
+        }
+    ],
+    "Mutema-Musikavanhu": [
+        {
+            "Candidate": "Chauke Alexander",
+            "Party": "DUZ",
+            "Votes": "354"
+        },
+        {
+            "Candidate": "Gata Angeline",
+            "Party": "ZANU-PF",
+            "Votes": "13717"
+        },
+        {
+            "Candidate": "Mudzamiri Thomas",
+            "Party": "NCA",
+            "Votes": "269"
+        },
+        {
+            "Candidate": "Nyamudeza Sibonile",
+            "Party": "CCC",
+            "Votes": "11475"
+        }
+    ],
+    "Nyanga North": [
+        {
+            "Candidate": "Chifodya Nyahando",
+            "Party": "CCC",
+            "Votes": "8540"
+        },
+        {
+            "Candidate": "Sanyatwe Chido",
+            "Party": "ZANU-PF",
+            "Votes": "13166"
+        },
+        {
+            "Candidate": "Mwonzora Munyaradzi",
+            "Party": "MDC-T",
+            "Votes": "735"
+        }
+    ],
+    "Nyanga South": [
+        {
+            "Candidate": "Madziwa Tonderai Joseph",
+            "Party": "MDC-T",
+            "Votes": "619"
+        },
+        {
+            "Candidate": "Mandiwanzira Supa Collins",
+            "Party": "ZANU-PF",
+            "Votes": "10327"
+        },
+        {
+            "Candidate": "Mccormick Ruxandra Grigoreta",
+            "Party": "CCC",
+            "Votes": "9574"
+        }
+    ],
+    "Bindura North": [
+        {
+            "Candidate": "Kajokoto Zvidzai Ruzvidzo",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kavhukatema Josephat",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Musanhi Kenneth Shupikai",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Bindura South": [
+        {
+            "Candidate": "Gwarada George",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Matangira Toendepi Remigious",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Guruve North": [
+        {
+            "Candidate": "Pinduka Tendai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tsikwa Benson",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Guruve South": [
+        {
+            "Candidate": "Basa Shupiko",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Magomo Christopher",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Svembere Dominic",
+            "Party": "NPC-UBUNTU",
+            "Votes": "0"
+        }
+    ],
+    "Mazowe Central": [
+        {
+            "Candidate": "Mushonga Shepherd Lenard",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Njanji Maxmore",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Mazowe North": [
+        {
+            "Candidate": "Makumbe Tsungai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Manyika Elison",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mazowe South": [
+        {
+            "Candidate": "Chari Rangarirai",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mazungunye Nobert T",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Mazowe West": [
+        {
+            "Candidate": "Kazembe Kazembe",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mataranyika Elija",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mbire": [
+        {
+            "Candidate": "Butau David",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Karembera Blessing",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mt Darwin East": [
+        {
+            "Candidate": "Butau Dzidzai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Manyika Petiaus",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mt Darwin North": [
+        {
+            "Candidate": "Mapundu Vengai",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Munemo Labbany",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Mt Darwin South": [
+        {
+            "Candidate": "Gura Reason",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mupamhanga Kudakwashe",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tsenengamu Godfrey",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Mt Darwin West": [
+        {
+            "Candidate": "Jonga Witness",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Musanhu Zivanai Peter",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Utete Mativenga",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Muzarabani North": [
+        {
+            "Candidate": "Kagura Agreement Takawira",
+            "Party": "CCC",
+            "Votes": "1423"
+        },
+        {
+            "Candidate": "Soda Zhemu",
+            "Party": "ZANU-PF",
+            "Votes": "21514"
+        }
+    ],
+    "Muzarabani South": [
+        {
+            "Candidate": "Gweru Wellington",
+            "Party": "CCC",
+            "Votes": "1984"
+        },
+        {
+            "Candidate": "Kabikira Benjamin",
+            "Party": "ZANU-PF",
+            "Votes": "22526"
+        }
+    ],
+    "Rushinga": [
+        {
+            "Candidate": "Mutero Cuthbert",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nyabani Tendai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Shamva North": [
+        {
+            "Candidate": "Chinodakufa Isac",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Maringisanwa Mavis",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Shamva South": [
+        {
+            "Candidate": "Mapiki Joseph",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mugwambi Patrick Tatenda",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Chirumanzu": [
+        {
+            "Candidate": "Cheza Patrick",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Rwodzi Barbara",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Chirumanzu-Zibagwe": [
+        {
+            "Candidate": "Chokururama Jacob",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Manyere Obert",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Chireya": [
+        {
+            "Candidate": "Gumbo Joseph",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Moyo Torerayi",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndhlukulani Jeremiah",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Gumumyu": [
+        {
+            "Candidate": "Chabata Misheck",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ngwenya Stephen",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Kabuyuni": [
+        {
+            "Candidate": "Tshuma Givemore",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tshuma Spencer",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Nembudziya": [
+        {
+            "Candidate": "Bangure Donwell",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Buka Flora",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Muswere Ndemera",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Central": [
+        {
+            "Candidate": "Chitiyo Richard",
+            "Party": "ZAPU",
+            "Votes": "408"
+        },
+        {
+            "Candidate": "Masvisvi Daveson",
+            "Party": "ZANU PF",
+            "Votes": "12315"
+        },
+        {
+            "Candidate": "Mears Spencer Valentine",
+            "Party": "INDEPENDENT",
+            "Votes": "185"
+        },
+        {
+            "Candidate": "Shava Hope",
+            "Party": "CCC",
+            "Votes": "11317"
+        }
+    ],
+    "Gokwe Kana": [
+        {
+            "Candidate": "Ncube Owen",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ncube Owen",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Mapfungautsi": [
+        {
+            "Candidate": "Karikoga Tawanda",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kulambone Tawanda",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zhiva Rueben",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Sengwa": [
+        {
+            "Candidate": "Mavima Paul",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Padzakashamba Nhamo",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Gokwe Sesame": [
+        {
+            "Candidate": "Matiza Madron",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Manyika Diamond",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Chiwundura": [
+        {
+            "Candidate": "Kwidini Sleiman Timios",
+            "Party": "ZANU PF",
+            "Votes": "10890"
+        },
+        {
+            "Candidate": "Murondiwa Blessing",
+            "Party": "CCC",
+            "Votes": "7266"
+        }
+    ],
+    "Gweru Urban": [
+        {
+            "Candidate": "Dube Brian",
+            "Party": "MDC-T",
+            "Votes": "672"
+        },
+        {
+            "Candidate": "Makombe Josiah",
+            "Party": "CCC",
+            "Votes": "12450"
+        },
+        {
+            "Candidate": "Mukwembi Alex",
+            "Party": "ZANU PF",
+            "Votes": "5422"
+        }
+    ],
+    "Mkoba South": [
+        {
+            "Candidate": "Chadoka Albert",
+            "Party": "MDC-T",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kuka John",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Magura Wellington",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zimano Shelter",
+            "Party": "UZA",
+            "Votes": "0"
+        }
+    ],
+    "Mkoba North": [
+        {
+            "Candidate": "Antonio Learmore",
+            "Party": "FREEZIM CONGRESS",
+            "Votes": "68"
+        },
+        {
+            "Candidate": "Chibaya Amo",
+            "Party": "CCC",
+            "Votes": "12555"
+        },
+        {
+            "Candidate": "Gondo William",
+            "Party": "ZANU PF",
+            "Votes": "4906"
+        },
+        {
+            "Candidate": "Kandai Clifford",
+            "Party": "MDC-T",
+            "Votes": "124"
+        },
+        {
+            "Candidate": "Mkandhla Tadios",
+            "Party": "UZA",
+            "Votes": "56"
+        }
+    ],
+    "Vungu": [
+        {
+            "Candidate": "Mgiyelwa Innocent",
+            "Party": "DOP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndlovu Lawrene",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndlovu Brown",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Kwekwe Central": [
+        {
+            "Candidate": "Manwere Dereck",
+            "Party": "UZA",
+            "Votes": "113"
+        },
+        {
+            "Candidate": "Ncube Energy",
+            "Party": "ZANU PF",
+            "Votes": "6541"
+        },
+        {
+            "Candidate": "Ndlovu Mbekezeli",
+            "Party": "MDC-T",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tobaiwa Judith",
+            "Party": "CCC",
+            "Votes": "10993"
+        }
+    ],
+    "Mbizo": [
+        {
+            "Candidate": "Madzivanyika Corban",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mambende Terrence",
+            "Party": "MDC-T",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mupereri Vongaishe",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Redcliff": [
+        {
+            "Candidate": "Kasiriwori Unique",
+            "Party": "INDEPENDENT",
+            "Votes": "211"
+        },
+        {
+            "Candidate": "Mukapiko Dzikamai Lloyd",
+            "Party": "CCC",
+            "Votes": "10352"
+        },
+        {
+            "Candidate": "Moyo July",
+            "Party": "ZANU PF",
+            "Votes": "12167"
+        },
+        {
+            "Candidate": "Shamairai Lister",
+            "Party": "UZA",
+            "Votes": "105"
+        }
+    ],
+    "Silobela": [
+        {
+            "Candidate": "Jona Nyevera",
+            "Party": "ZANU PF",
+            "Votes": "11674"
+        },
+        {
+            "Candidate": "Munhazu Rafson",
+            "Party": "INDEPENDENT",
+            "Votes": "370"
+        },
+        {
+            "Candidate": "Ndebele Ephraim Makhele",
+            "Party": "ZAPU",
+            "Votes": "610"
+        },
+        {
+            "Candidate": "Ndlovu Ephraim",
+            "Party": "CCC",
+            "Votes": "7783"
+        }
+    ],
+    "Zhombe": [
+        {
+            "Candidate": "Ntini Benison Judah",
+            "Party": "CCC",
+            "Votes": "7482"
+        },
+        {
+            "Candidate": "Samambwa Edmore",
+            "Party": "ZANU PF",
+            "Votes": "14055"
+        }
+    ],
+    "Mberengwa Central": [
+        {
+            "Candidate": "Shumba Tinashe",
+            "Party": "ZANU PF",
+            "Votes": "17689"
+        },
+        {
+            "Candidate": "Zhou Takavafira",
+            "Party": "CCC",
+            "Votes": "3867"
+        }
+    ],
+    "Mberengwa East": [
+        {
+            "Candidate": "Hungwe Tasara",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Shoko Davies",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mberengwa West": [
+        {
+            "Candidate": "Msipa Dambudzo",
+            "Party": "FREEZIM CONGRESS",
+            "Votes": "559"
+        },
+        {
+            "Candidate": "Moyo Onias",
+            "Party": "CCC",
+            "Votes": "4815"
+        },
+        {
+            "Candidate": "Zhou Tafanana",
+            "Party": "ZANU PF",
+            "Votes": "13795"
+        }
+    ],
+    "Shurugwi North": [
+        {
+            "Candidate": "Mhindu Phillip",
+            "Party": "CCC",
+            "Votes": "9094"
+        },
+        {
+            "Candidate": "Mpasi Joseph",
+            "Party": "ZANU PF",
+            "Votes": "13919"
+        }
+    ],
+    "Shurugwi South": [
+        {
+            "Candidate": "Mhlanga Michael",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mhuri Wilson",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        }
+    ],
+    "Zvishavane-Ngezi": [
+        {
+            "Candidate": "Jaravaza Mecky",
+            "Party": "ZANU PF",
+            "Votes": "12124"
+        },
+        {
+            "Candidate": "Mudisi Leopold",
+            "Party": "CCC",
+            "Votes": "11607"
+        },
+        {
+            "Candidate": "Nyoni Michael",
+            "Party": "INDEPENDENT",
+            "Votes": "165"
+        },
+        {
+            "Candidate": "Sibanda Sheunopa",
+            "Party": "MDC-T",
+            "Votes": "163"
+        }
+    ],
+    "Zvishavane Runde": [
+        {
+            "Candidate": "Moyo Fred",
+            "Party": "ZANU PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Muchegwa Gift Ipai",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Beitbridge East": [
+        {
+            "Candidate": "Ndou Renatho",
+            "Party": "CCC",
+            "Votes": "5626"
+        },
+        {
+            "Candidate": "Nguluvhe Albert",
+            "Party": "ZANU-PF",
+            "Votes": "8635"
+        }
+    ],
+    "Beitbridge West": [
+        {
+            "Candidate": "Ncube Morgan",
+            "Party": "CCC",
+            "Votes": "7428"
+        },
+        {
+            "Candidate": "Ndou Moffat Cephas",
+            "Party": "INDEPENDENT",
+            "Votes": "1114"
+        },
+        {
+            "Candidate": "Ndou Thusani",
+            "Party": "ZANU-PF",
+            "Votes": "7332"
+        }
+    ],
+    "Bulilima": [
+        {
+            "Candidate": "Maplanka Bekezela",
+            "Party": "CCC",
+            "Votes": "6660"
+        },
+        {
+            "Candidate": "Moyo Aleck",
+            "Party": "MRP",
+            "Votes": "50"
+        },
+        {
+            "Candidate": "Ndlovu Artwell",
+            "Party": "ZAPU",
+            "Votes": "933"
+        },
+        {
+            "Candidate": "Phuti Dingumuzi",
+            "Party": "ZANU-PF",
+            "Votes": "7185"
+        }
+    ],
+    "Gwanda North": [
+        {
+            "Candidate": "Ncube Lungisani Coster Twominutes",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nkala Desire",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Gwanda South": [
+        {
+            "Candidate": "Dube Patrick",
+            "Party": "CCC",
+            "Votes": "5099"
+        },
+        {
+            "Candidate": "Gumbo Happy",
+            "Party": "UZA",
+            "Votes": "269"
+        },
+        {
+            "Candidate": "Marupi Omphile",
+            "Party": "ZANU-PF",
+            "Votes": "7941"
+        },
+        {
+            "Candidate": "Nare Timothy",
+            "Party": "ZAPU",
+            "Votes": "270"
+        }
+    ],
+    "Gwanda Tshitaudze": [
+        {
+            "Candidate": "Mazhale Jastone",
+            "Party": "CCC",
+            "Votes": "5839"
+        },
+        {
+            "Candidate": "Moyo Fisani",
+            "Party": "ZANU-PF",
+            "Votes": "8671"
+        },
+        {
+            "Candidate": "Ncube Luckson",
+            "Party": "ZAPU",
+            "Votes": "271"
+        }
+    ],
+    "Insiza North": [
+        {
+            "Candidate": "Masuku David",
+            "Party": "CCC",
+            "Votes": "4837"
+        },
+        {
+            "Candidate": "Taruvinga Farai",
+            "Party": "ZANU-PF",
+            "Votes": "9716"
+        }
+    ],
+    "Insiza South": [
+        {
+            "Candidate": "Moyo Sifanjani Paul",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Sithole Spare",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Mangwe": [
+        {
+            "Candidate": "Dube Gobosamang",
+            "Party": "MRP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nkomo Thembinkosi",
+            "Party": "ZAPU",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Nleya Sandisiwe",
+            "Party": "ZANU-PF",
+            "Votes": "6506"
+        },
+        {
+            "Candidate": "Sihlabo Vincent",
+            "Party": "CCC",
+            "Votes": "7705"
+        }
+    ],
+    "Matobo": [
+        {
+            "Candidate": "Dube Nicholas Abson",
+            "Party": "ZAPU",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Moyo Edgar",
+            "Party": "ZANU-PF",
+            "Votes": "7366"
+        },
+        {
+            "Candidate": "Ngwenya Collen",
+            "Party": "CCC",
+            "Votes": "6219"
+        },
+        {
+            "Candidate": "Nyathi Mlungisi",
+            "Party": "INDEPENDENT",
+            "Votes": "278"
+        }
+    ],
+    "Matobo Mangwe": [
+        {
+            "Candidate": "Khuphe Patriotic",
+            "Party": "ZAPU",
+            "Votes": "1554"
+        },
+        {
+            "Candidate": "Ncube Soul",
+            "Party": "ZANU-PF",
+            "Votes": "5046"
+        },
+        {
+            "Candidate": "Ndebele Madalaboy",
+            "Party": "CCC",
+            "Votes": "6701"
+        },
+        {
+            "Candidate": "Ngwenya Jacob",
+            "Party": "INDEPENDENT",
+            "Votes": "326"
+        }
+    ],
+    "Umzingwane": [
+        {
+            "Candidate": "Mayihlome Levi",
+            "Party": "ZANU-PF",
+            "Votes": "7416"
+        },
+        {
+            "Candidate": "Ndlovu Mcebisi",
+            "Party": "CCC",
+            "Votes": "7232"
+        }
+    ],
+    "Binga North": [
+        {
+            "Candidate": "Munsaka Kudakwashe Mavula",
+            "Party": "ZANU-PF",
+            "Votes": "9663"
+        },
+        {
+            "Candidate": "Munsaka Million",
+            "Party": "NCA",
+            "Votes": "289"
+        },
+        {
+            "Candidate": "Nyoni Peter",
+            "Party": "INDEPENDENT",
+            "Votes": "174"
+        },
+        {
+            "Candidate": "Siachami Wessele Siankumba",
+            "Party": "MDC-T",
+            "Votes": "288"
+        },
+        {
+            "Candidate": "Sibanda Dubeko Prince",
+            "Party": "CCC",
+            "Votes": "13530"
+        }
+    ],
+    "Binga South": [
+        {
+            "Candidate": "Cumazala Fanuel",
+            "Party": "CCC",
+            "Votes": "10967"
+        },
+        {
+            "Candidate": "Gava Anesu",
+            "Party": "ZCPD",
+            "Votes": "349"
+        },
+        {
+            "Candidate": "Kujulu Munkombwe Themba Toonset",
+            "Party": "INDEPENDENT",
+            "Votes": "1044"
+        },
+        {
+            "Candidate": "Phiri Challenge",
+            "Party": "ZANU-PF",
+            "Votes": "7258"
+        },
+        {
+            "Candidate": "Sianaga John",
+            "Party": "INDEPENDENT",
+            "Votes": "174"
+        }
+    ],
+    "Bubi": [
+        {
+            "Candidate": "Mabhena Bekhithemba",
+            "Party": "CCC",
+            "Votes": "4672"
+        },
+        {
+            "Candidate": "Mathe Nkululeko",
+            "Party": "INDEPENDENT",
+            "Votes": "899"
+        },
+        {
+            "Candidate": "Moyo Luke",
+            "Party": "ZAPU",
+            "Votes": "753"
+        },
+        {
+            "Candidate": "Ncube Enerst",
+            "Party": "Free Zim Congress",
+            "Votes": "150"
+        },
+        {
+            "Candidate": "Nyathi Bekezela",
+            "Party": "UANC",
+            "Votes": "250"
+        },
+        {
+            "Candidate": "Sibanda Fortune Jamela",
+            "Party": "MDC-T",
+            "Votes": "583"
+        },
+        {
+            "Candidate": "Sibanda Simelisizwe",
+            "Party": "ZANU-PF",
+            "Votes": "11208"
+        }
+    ],
+    "Hwange Central": [
+        {
+            "Candidate": "Chinene Brian",
+            "Party": "INDEPENDENT",
+            "Votes": "225"
+        },
+        {
+            "Candidate": "Dube Reed",
+            "Party": "ZANU-PF",
+            "Votes": "5157"
+        },
+        {
+            "Candidate": "Molokela-Tsiye Fortune Daniel",
+            "Party": "CCC",
+            "Votes": "9167"
+        },
+        {
+            "Candidate": "Ndhlovu Cosmas",
+            "Party": "INDEPENDENT",
+            "Votes": "646"
+        },
+        {
+            "Candidate": "Nkomazana Salani",
+            "Party": "MDC-T",
+            "Votes": "102"
+        },
+        {
+            "Candidate": "Nyathi Harriet",
+            "Party": "Free Zim Congress",
+            "Votes": "74"
+        }
+    ],
+    "Hwange East": [
+        {
+            "Candidate": "Bonda Joseph",
+            "Party": "CCC",
+            "Votes": "8931"
+        },
+        {
+            "Candidate": "Phiri Michael",
+            "Party": "MDC-T",
+            "Votes": "684"
+        },
+        {
+            "Candidate": "Sikuka Alois Sundano",
+            "Party": "ZANU-PF",
+            "Votes": "8485"
+        }
+    ],
+    "Hwange West": [
+        {
+            "Candidate": "Dhlamini Somveli",
+            "Party": "MDC-T",
+            "Votes": "1985"
+        },
+        {
+            "Candidate": "Moyo Philani",
+            "Party": "ZANU-PF",
+            "Votes": "7504"
+        },
+        {
+            "Candidate": "Moyo Vusumuzi",
+            "Party": "CCC",
+            "Votes": "7954"
+        },
+        {
+            "Candidate": "Nkomo Ditshoni",
+            "Party": "ZAPU",
+            "Votes": "186"
+        }
+    ],
+    "Lupane East": [
+        {
+            "Candidate": "Gumbo Mtenjwa",
+            "Party": "ZAPU",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Machangu Ncube Phathisiwe",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Moyo Ezekiel",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Vanya Moyo Bright",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Lupane West": [
+        {
+            "Candidate": "Keswa Engelinah",
+            "Party": "MDC-T",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Moyo Henry",
+            "Party": "UZA",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ndlovu Mpumelelo",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Sibanda Mxolisi Charles",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Nkayi North": [
+        {
+            "Candidate": "Mathema Sithabisiwe",
+            "Party": "INDEPENDENT",
+            "Votes": "804"
+        },
+        {
+            "Candidate": "Ndlovu Chief",
+            "Party": "MDC-T",
+            "Votes": "4065"
+        },
+        {
+            "Candidate": "Ndlovu Mandla",
+            "Party": "CCC",
+            "Votes": "3110"
+        },
+        {
+            "Candidate": "Nyoni Sithembiso Gile G",
+            "Party": "ZANU-PF",
+            "Votes": "5492"
+        }
+    ],
+    "Nkayi South": [
+        {
+            "Candidate": "Hadebe Jabulani",
+            "Party": "CCC",
+            "Votes": "6269"
+        },
+        {
+            "Candidate": "Mathe Stars",
+            "Party": "ZANU PF",
+            "Votes": "5066"
+        },
+        {
+            "Candidate": "Moyo Clilopasi",
+            "Party": "ZAPU",
+            "Votes": "576"
+        }
+    ],
+    "Tsholotsho North": [
+        {
+            "Candidate": "Dube Francis Engelbert",
+            "Party": "UZA",
+            "Votes": "308"
+        },
+        {
+            "Candidate": "Gumbo Dokotela",
+            "Party": "ZAPU",
+            "Votes": "834"
+        },
+        {
+            "Candidate": "Khumalo Sibangumuzi Sixtone",
+            "Party": "ZANU-PF",
+            "Votes": "5798"
+        },
+        {
+            "Candidate": "Moyo Vincent",
+            "Party": "INDEPENDENT",
+            "Votes": "170"
+        },
+        {
+            "Candidate": "Sibanda Libion",
+            "Party": "CCC",
+            "Votes": "7571"
+        }
+    ],
+    "Tsholotsho South": [
+        {
+            "Candidate": "Moyo Bongani",
+            "Party": "INDEPENDENT",
+            "Votes": "353"
+        },
+        {
+            "Candidate": "Mthombeni Leonard",
+            "Party": "ZAPU",
+            "Votes": "1180"
+        },
+        {
+            "Candidate": "Ncube Musa",
+            "Party": "ZANU-PF",
+            "Votes": "7885"
+        },
+        {
+            "Candidate": "Sibanda Tapson Nganunu",
+            "Party": "CCC",
+            "Votes": "7111"
+        }
+    ],
+    "Umguza": [
+        {
+            "Candidate": "Maligwa Queen",
+            "Party": "INDEPENDENT",
+            "Votes": "8070"
+        },
+        {
+            "Candidate": "Moyo Richard",
+            "Party": "ZANU-PF",
+            "Votes": "11718"
+        },
+        {
+            "Candidate": "Ncube Khumbulani Peter",
+            "Party": "DOP",
+            "Votes": "151"
+        },
+        {
+            "Candidate": "Sibanda Young",
+            "Party": "INDEPENDENT",
+            "Votes": "144"
+        },
+        {
+            "Candidate": "Wilson Andrew",
+            "Party": "UZA",
+            "Votes": "194"
+        }
+    ],
+    "Chikomba East": [
+        {
+            "Candidate": "Mhona Felix Tapiwa",
+            "Party": "ZANU PF",
+            "Votes": "12089"
+        },
+        {
+            "Candidate": "Muvirimi Raymond Mutambudzi",
+            "Party": "INDEPENDENT",
+            "Votes": "159"
+        },
+        {
+            "Candidate": "Chinembiri Muchengeti",
+            "Party": "CCC",
+            "Votes": "6202"
+        }
+    ],
+    "Chikomba West": [
+        {
+            "Candidate": "Mavetera Tatenda Annastacia",
+            "Party": "ZANU PF",
+            "Votes": "19620"
+        },
+        {
+            "Candidate": "Punungwe Emmanuel",
+            "Party": "CCC",
+            "Votes": "7860"
+        }
+    ],
+    "Goromonzi North": [
+        {
+            "Candidate": "Bvute Ozias",
+            "Party": "ZANU PF",
+            "Votes": "14546"
+        },
+        {
+            "Candidate": "Muchuwa Chenesai",
+            "Party": "CCC",
+            "Votes": "10881"
+        }
+    ],
+    "Goromonzi South": [
+        {
+            "Candidate": "Chagwiza Stephen",
+            "Party": "CCC",
+            "Votes": "16312"
+        },
+        {
+            "Candidate": "Chikonye Tinashe",
+            "Party": "ZANU-PF",
+            "Votes": "15216"
+        },
+        {
+            "Candidate": "Chikudo Rueben",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chirenje Julieth",
+            "Party": "INDEPENDENT",
+            "Votes": "421"
+        }
+    ],
+    "Goromonzi West": [
+        {
+            "Candidate": "Karimatsenga Nyamupinga BiatahBeatrice",
+            "Party": "ZANU-PF",
+            "Votes": "12072"
+        },
+        {
+            "Candidate": "Munetsi Tineyi",
+            "Party": "CCC",
+            "Votes": "10692"
+        },
+        {
+            "Candidate": "Nhamburo Taurai Clifford",
+            "Party": "INDEPENDENT",
+            "Votes": "2139"
+        }
+    ],
+    "Ruwa": [
+        {
+            "Candidate": "Gwanzura Oswell Ndumo",
+            "Party": "ZANU-PF",
+            "Votes": "9373"
+        },
+        {
+            "Candidate": "Muwodzeri Thomas",
+            "Party": "CCC",
+            "Votes": "16986"
+        }
+    ],
+    "Marondera Central": [
+        {
+            "Candidate": "Kundiona Cleopas",
+            "Party": "ZANU-PF",
+            "Votes": "9714"
+        },
+        {
+            "Candidate": "Manyere Misheck",
+            "Party": "CCC",
+            "Votes": "1763"
+        },
+        {
+            "Candidate": "Matewu Caston",
+            "Party": "CCC",
+            "Votes": "14712"
+        }
+    ],
+    "Marondera East": [
+        {
+            "Candidate": "Mutokonyi Vimbayi",
+            "Party": "ZANU-PF",
+            "Votes": "15221"
+        },
+        {
+            "Candidate": "Tasirenhamo Thomas",
+            "Party": "DUZ",
+            "Votes": "262"
+        },
+        {
+            "Candidate": "Zhuwarara Kizito",
+            "Party": "CCC",
+            "Votes": "3566"
+        }
+    ],
+    "Marondera West": [
+        {
+            "Candidate": "Magwenzi Eddington",
+            "Party": "CCC",
+            "Votes": "11106"
+        },
+        {
+            "Candidate": "Maisvoreva Amon",
+            "Party": "ZNRP",
+            "Votes": "487"
+        },
+        {
+            "Candidate": "Munhunepi Tichaona",
+            "Party": "INDEPENDENT",
+            "Votes": "483"
+        },
+        {
+            "Candidate": "Tavaziva Godwin",
+            "Party": "ZANU PF",
+            "Votes": "18297"
+        }
+    ],
+    "Mudzi North": [
+        {
+            "Candidate": "Musweweshiri Benjamin",
+            "Party": "ZANU-PF",
+            "Votes": "15099"
+        },
+        {
+            "Candidate": "Mututa Paradzai",
+            "Party": "CCC",
+            "Votes": "2858"
+        }
+    ],
+    "Mudzi South": [
+        {
+            "Candidate": "Nyambo Tichafa",
+            "Party": "CCC",
+            "Votes": "2376"
+        },
+        {
+            "Candidate": "Samukange Jonathan Tawonana",
+            "Party": "ZANU-PF",
+            "Votes": "20653"
+        }
+    ],
+    "Mudzi West": [
+        {
+            "Candidate": "Kaitano Knowledge",
+            "Party": "ZANU-PF",
+            "Votes": "18513"
+        },
+        {
+            "Candidate": "Maja Tatenda",
+            "Party": "CCC",
+            "Votes": "1583"
+        }
+    ],
+    "Murewa North": [
+        {
+            "Candidate": "Garwe Daniel",
+            "Party": "ZANU-PF",
+            "Votes": "14870"
+        },
+        {
+            "Candidate": "Magaso Peter",
+            "Party": "UANC",
+            "Votes": "324"
+        },
+        {
+            "Candidate": "Mangwende Eunice Tambudzai",
+            "Party": "INDEPENDENT",
+            "Votes": "1323"
+        },
+        {
+            "Candidate": "Nyabinde Kennedy",
+            "Party": "CCC",
+            "Votes": "7215"
+        }
+    ],
+    "Murewa South": [
+        {
+            "Candidate": "Bume Timothy",
+            "Party": "CCC",
+            "Votes": "2902"
+        },
+        {
+            "Candidate": "Mangondo Noah Takawota Joni",
+            "Party": "ZANU-PF",
+            "Votes": "19657"
+        }
+    ],
+    "Murewa West": [
+        {
+            "Candidate": "Jere Farai",
+            "Party": "ZANU-PF",
+            "Votes": "17733"
+        },
+        {
+            "Candidate": "Mukurazhizha Lesley Manika",
+            "Party": "CCC",
+            "Votes": "7271"
+        },
+        {
+            "Candidate": "Nhamburo Silence",
+            "Party": "INDEPENDENT",
+            "Votes": "114"
+        }
+    ],
+    "Mutoko East": [
+        {
+            "Candidate": "Kaseke Yeukai",
+            "Party": "CCC",
+            "Votes": "3613"
+        },
+        {
+            "Candidate": "Musiyiwa Richard",
+            "Party": "ZANU-PF",
+            "Votes": "19073"
+        }
+    ],
+    "Mutoko North": [
+        {
+            "Candidate": "Makwiranzou Caleb",
+            "Party": "ZANU-PF",
+            "Votes": "16132"
+        },
+        {
+            "Candidate": "Mavhoko Taurai",
+            "Party": "CCC",
+            "Votes": "4031"
+        }
+    ],
+    "Mutoko South": [
+        {
+            "Candidate": "Mapengo Mapango",
+            "Party": "CCC",
+            "Votes": "4296"
+        },
+        {
+            "Candidate": "Tasikani Isaac",
+            "Party": "ZANU-PF",
+            "Votes": "17459"
+        }
+    ],
+    "Seke": [
+        {
+            "Candidate": "Kashambe Munyaradzi Tobias",
+            "Party": "ZANU PF",
+            "Votes": "13277"
+        },
+        {
+            "Candidate": "Madzimbamuto Willard Tapfumanei",
+            "Party": "CCC",
+            "Votes": "14032"
+        },
+        {
+            "Candidate": "Muzanenhamo Frederick",
+            "Party": "DUZ",
+            "Votes": "235"
+        }
+    ],
+    "Maramba Pfungwe": [
+        {
+            "Candidate": "Chimunhu Chiratidzo",
+            "Party": "CCC",
+            "Votes": "1448"
+        },
+        {
+            "Candidate": "Karumazondo Tichawona Makuwi",
+            "Party": "ZANU-PF",
+            "Votes": "25757"
+        },
+        {
+            "Candidate": "Mupukuta Ndinyarei",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Uzumba": [
+        {
+            "Candidate": "Konono Cosmas",
+            "Party": "CCC",
+            "Votes": "1977"
+        },
+        {
+            "Candidate": "Muchemwa Wiriranai",
+            "Party": "ZANU-PF",
+            "Votes": "24588"
+        }
+    ],
+    "Wedza North": [
+        {
+            "Candidate": "Fidelis Eunice",
+            "Party": "ZNRP",
+            "Votes": "664"
+        },
+        {
+            "Candidate": "Katsaya Mapfumo",
+            "Party": "CCC",
+            "Votes": "5711"
+        },
+        {
+            "Candidate": "Ndudzo Itai",
+            "Party": "ZANU-PF",
+            "Votes": "18762"
+        }
+    ],
+    "Wedza South": [
+        {
+            "Candidate": "Machakarika Tinoda",
+            "Party": "ZANU-PF",
+            "Votes": "12563"
+        },
+        {
+            "Candidate": "Zinhumwe Valentine",
+            "Party": "CCC",
+            "Votes": "5822"
+        }
+    ],
+    "Chegutu East": [
+        {
+            "Candidate": "Mandere Gabriel",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Shamu Webster Kotiwani",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Chegutu West": [
+        {
+            "Candidate": "Chigavazira Last Farai",
+            "Party": "ZANU-PF",
+            "Votes": "11308"
+        },
+        {
+            "Candidate": "Chivero Admore",
+            "Party": "CCC",
+            "Votes": "13042"
+        },
+        {
+            "Candidate": "Konjana Gift Machoka",
+            "Party": "INDEPENDENT",
+            "Votes": "875"
+        },
+        {
+            "Candidate": "Makiyi Elizabeth",
+            "Party": "INDEPENDENT",
+            "Votes": "72"
+        },
+        {
+            "Candidate": "Matibe Takalani Prince",
+            "Party": "INDEPENDENT",
+            "Votes": "320"
+        },
+        {
+            "Candidate": "Munatsi Owen",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Mhondoro-Mubaira": [
+        {
+            "Candidate": "Mubaira Jonathan",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chivaura Vengai",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Chiwanza Rodrick Chamunorwa A",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Norton": [
+        {
+            "Candidate": "Mliswa Temba Peter",
+            "Party": "INDEPENDENT",
+            "Votes": "7518"
+        },
+        {
+            "Candidate": "Shamu Constance",
+            "Party": "ZANU PF",
+            "Votes": "5017"
+        },
+        {
+            "Candidate": "Tsvangirayi Richard",
+            "Party": "CCC",
+            "Votes": "13089"
+        }
+    ],
+    "Hurungwe Central": [
+        {
+            "Candidate": "Mazhambe Joel",
+            "Party": "FREEZIM",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Musochi Christopher",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ziki Richard",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Hurungwe East": [
+        {
+            "Candidate": "Kangausaru Chenjerai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mandava Blessing",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Hurungwe North": [
+        {
+            "Candidate": "Mangwaira Stanford",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Muringazuva Pax",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Hurungwe West": [
+        {
+            "Candidate": "Kambuzuma Chinjai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zvarevashe Innocent",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Magunje": [
+        {
+            "Candidate": "Jasi Gabriel",
+            "Party": "INDEPENDENT",
+            "Votes": "453"
+        },
+        {
+            "Candidate": "Kusemamuriwo Tonderayi Todd",
+            "Party": "CCC",
+            "Votes": "8422"
+        },
+        {
+            "Candidate": "Monga Super",
+            "Party": "ZANU-PF",
+            "Votes": "10121"
+        }
+    ],
+    "Kariba": [
+        {
+            "Candidate": "Chiweshe Doras",
+            "Party": "FREEZIM",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Gwangwaba Shine",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mugadza Patrick Phillip",
+            "Party": "DOP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Mutsau Andrew",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Shamu Tichaona Nigeil",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Chinhoyi": [
+        {
+            "Candidate": "Chidzomba Thomas",
+            "Party": "ZANU PF",
+            "Votes": "10051"
+        },
+        {
+            "Candidate": "Mhangwa Leslie Everman",
+            "Party": "CCC",
+            "Votes": "15761"
+        },
+        {
+            "Candidate": "Munyanduri Tendai Peter",
+            "Party": "DOP",
+            "Votes": "60"
+        },
+        {
+            "Candidate": "Mutodi Nyasha Blessing Silence",
+            "Party": "Z/C/P/D",
+            "Votes": "85"
+        }
+    ],
+    "Makonde": [
+        {
+            "Candidate": "Nyakata Christopher",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tigere Noel",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Ziyambi Simbarashe",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Mhangura": [
+        {
+            "Candidate": "Mombeshora Douglas Tendai",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Zungura David",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Mhondoro-Ngezi": [
+        {
+            "Candidate": "Mukuhlani Tavengwa",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Netanyau Innocent",
+            "Party": "DOP",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tapera Simon",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Muzvezve": [
+        {
+            "Candidate": "Haritatos Vangelis Peter",
+            "Party": "ZANU-PF",
+            "Votes": "16754"
+        },
+        {
+            "Candidate": "Marufu Nicholas Anyway",
+            "Party": "CCC",
+            "Votes": "6425"
+        }
+    ],
+    "Chakari": [
+        {
+            "Candidate": "Nkani Andrew",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tembo Solomon Isaac",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Kadoma Central": [
+        {
+            "Candidate": "Daka Cosmas",
+            "Party": "ZANU PF",
+            "Votes": "7956"
+        },
+        {
+            "Candidate": "Hamamuti Dzikamai",
+            "Party": "MDC-T",
+            "Votes": "476"
+        },
+        {
+            "Candidate": "Mambipiri Gift",
+            "Party": "CCC",
+            "Votes": "14940"
+        }
+    ],
+    "Sanyati": [
+        {
+            "Candidate": "Chabuka Simangaliso",
+            "Party": "INDEPENDENT",
+            "Votes": "406"
+        },
+        {
+            "Candidate": "Kambamura Polite",
+            "Party": "ZANU PF",
+            "Votes": "17474"
+        },
+        {
+            "Candidate": "Mafa Lahliwe",
+            "Party": "CCC",
+            "Votes": "4843"
+        }
+    ],
+    "Zvimba East": [
+        {
+            "Candidate": "Mukwangwariwa Francis Garikai",
+            "Party": "ZANU-PF",
+            "Votes": "15246"
+        },
+        {
+            "Candidate": "Mutasa Oliver",
+            "Party": "CCC",
+            "Votes": "15435"
+        }
+    ],
+    "Zvimba West": [
+        {
+            "Candidate": "Dinha Mercy Maruva",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Kurwa Brighton Chikaka",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Tanyanyiwa Mekia",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Zvimba South": [
+        {
+            "Candidate": "Chidakwa Walter Kufakunesu",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Malinganiso Taurai Dexter",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Shayamano Nelson",
+            "Party": "CCC",
+            "Votes": "0"
+        }
+    ],
+    "Zvimba North": [
+        {
+            "Candidate": "Chombo Marian",
+            "Party": "ZANU-PF",
+            "Votes": "20616"
+        },
+        {
+            "Candidate": "Jenami Willard",
+            "Party": "CCC",
+            "Votes": "5382"
+        }
+    ],
+    "Bikita East": [
+        {
+            "Candidate": "Mudzingwa Bornface",
+            "Party": "CCC",
+            "Votes": "7544"
+        },
+        {
+            "Candidate": "Zevezayi Court",
+            "Party": "ZANU-PF",
+            "Votes": "9880"
+        }
+    ],
+    "Bikita South": [
+        {
+            "Candidate": "Mutodi Energy",
+            "Party": "ZANU-PF",
+            "Votes": "11396"
+        },
+        {
+            "Candidate": "Nyika Barney",
+            "Party": "CCC",
+            "Votes": "6622"
+        }
+    ],
+    "Bikita West": [
+        {
+            "Candidate": "Chivasa Madock Tatirai",
+            "Party": "NCA",
+            "Votes": "774"
+        },
+        {
+            "Candidate": "Gutuza Pikirai",
+            "Party": "CCC",
+            "Votes": "7775"
+        },
+        {
+            "Candidate": "Nhatiso Daniel",
+            "Party": "ZANU PF",
+            "Votes": "11614"
+        }
+    ],
+    "Chiredzi Central": [
+        {
+            "Candidate": "Hwende Gibson",
+            "Party": "INDEPENDENT",
+            "Votes": "676"
+        },
+        {
+            "Candidate": "Makumire Ropafadzo",
+            "Party": "CCC",
+            "Votes": "12342"
+        },
+        {
+            "Candidate": "Moyo Francis",
+            "Party": "ZANU-PF",
+            "Votes": "7832"
+        }
+    ],
+    "Chiredzi East": [
+        {
+            "Candidate": "Maluleke Godfrey",
+            "Party": "CCC",
+            "Votes": "3922"
+        },
+        {
+            "Candidate": "Mundungehama Siyaki",
+            "Party": "ZANU-PF",
+            "Votes": "14265"
+        },
+        {
+            "Candidate": "Vhurande Mahlupeko",
+            "Party": "NCA",
+            "Votes": "262"
+        }
+    ],
+    "Chiredzi North": [
+        {
+            "Candidate": "Bhila Roy",
+            "Party": "ZANU-PF",
+            "Votes": "18696"
+        },
+        {
+            "Candidate": "Chamisa Fungai",
+            "Party": "CCC",
+            "Votes": "2584"
+        }
+    ],
+    "Chiredzi South": [
+        {
+            "Candidate": "Gumbo Douglas",
+            "Party": "CCC",
+            "Votes": "7528"
+        },
+        {
+            "Candidate": "Sithole Joel",
+            "Party": "ZANU-PF",
+            "Votes": "11552"
+        }
+    ],
+    "Chiredzi West": [
+        {
+            "Candidate": "Chiwa Darlington",
+            "Party": "ZANU-PF",
+            "Votes": "15054"
+        },
+        {
+            "Candidate": "Machigere Nhamoinesu",
+            "Party": "CCC",
+            "Votes": "6554"
+        }
+    ],
+    "Chivi Central": [
+        {
+            "Candidate": "Makotose Peter Alexios",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Maoneke Exevia",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Chivi North": [
+        {
+            "Candidate": "Chidaushe Emmanuel",
+            "Party": "CCC",
+            "Votes": "5905"
+        },
+        {
+            "Candidate": "Mukungunugwa Huruva Godfrey",
+            "Party": "ZANU-PF",
+            "Votes": "11769"
+        },
+        {
+            "Candidate": "Mutswunguma Magret",
+            "Party": "UZA",
+            "Votes": "78"
+        }
+    ],
+    "Chivi South": [
+        {
+            "Candidate": "Chikondere Danisai",
+            "Party": "CCC",
+            "Votes": "4617"
+        },
+        {
+            "Candidate": "Maburutse Saul",
+            "Party": "ZANU-PF",
+            "Votes": "12874"
+        }
+    ],
+    "Gutu Central": [
+        {
+            "Candidate": "Chitando Wiston",
+            "Party": "ZANU-PF",
+            "Votes": "13683"
+        },
+        {
+            "Candidate": "Takaona Mathew",
+            "Party": "CCC",
+            "Votes": "6439"
+        }
+    ],
+    "Gutu East": [
+        {
+            "Candidate": "Ganyiwa Benjamin",
+            "Party": "ZANU-PF",
+            "Votes": "7569"
+        },
+        {
+            "Candidate": "Gonese Gift",
+            "Party": "CCC",
+            "Votes": "4759"
+        },
+        {
+            "Candidate": "Vhengere George",
+            "Party": "INDEPENDENT",
+            "Votes": "4641"
+        }
+    ],
+    "Gutu South": [
+        {
+            "Candidate": "Gobvu Hamandishe",
+            "Party": "CCC",
+            "Votes": "7116"
+        },
+        {
+            "Candidate": "Togarepi Pupurai",
+            "Party": "ZANU-PF",
+            "Votes": "9960"
+        }
+    ],
+    "Gutu West": [
+        {
+            "Candidate": "Morudu Ephraem",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Paradza John",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Rwodzi Mutonhori Christopher",
+            "Party": "INDEPENDENT",
+            "Votes": "0"
+        }
+    ],
+    "Masvingo Central": [
+        {
+            "Candidate": "Mavhaire Moses Tinashe",
+            "Party": "CCC",
+            "Votes": "7350"
+        },
+        {
+            "Candidate": "Zvobgo Eddison Mudiwa N",
+            "Party": "ZANU-PF",
+            "Votes": "9967"
+        }
+    ],
+    "Masvingo North": [
+        {
+            "Candidate": "Madzivire Enock",
+            "Party": "CCC",
+            "Votes": "9147"
+        },
+        {
+            "Candidate": "Mudumi Brian",
+            "Party": "ZANU-PF",
+            "Votes": "11467"
+        }
+    ],
+    "Masvingo South": [
+        {
+            "Candidate": "Mabvure Knowledge",
+            "Party": "CCC",
+            "Votes": "5088"
+        },
+        {
+            "Candidate": "Mukomberi Tanatsiwa",
+            "Party": "ZANU-PF",
+            "Votes": "11467"
+        }
+    ],
+    "Masvingo Urban": [
+        {
+            "Candidate": "Maboke Collen",
+            "Party": "INDEPENDENT",
+            "Votes": "1629"
+        },
+        {
+            "Candidate": "Mawende Wellington",
+            "Party": "ZANU-PF",
+            "Votes": "6513"
+        },
+        {
+            "Candidate": "Mazarire Bonface",
+            "Party": "MDC-T",
+            "Votes": "294"
+        },
+        {
+            "Candidate": "Muneri Muneri Smar",
+            "Party": "UZA",
+            "Votes": "86"
+        },
+        {
+            "Candidate": "Mureri Martin",
+            "Party": "CCC",
+            "Votes": "13042"
+        }
+    ],
+    "Masvingo West": [
+        {
+            "Candidate": "Gasva Pedzisai",
+            "Party": "CCC",
+            "Votes": "9458"
+        },
+        {
+            "Candidate": "Ruvai Ezira",
+            "Party": "ZANU-PF",
+            "Votes": "10472"
+        }
+    ],
+    "Mwenezi East": [
+        {
+            "Candidate": "Chikomo Sheillah",
+            "Party": "ZANU-PF",
+            "Votes": "17234"
+        },
+        {
+            "Candidate": "Taruona Martin",
+            "Party": "CCC",
+            "Votes": "1910"
+        }
+    ],
+    "Mwenezi North": [
+        {
+            "Candidate": "Makope Master",
+            "Party": "ZANU-PF",
+            "Votes": "13945"
+        },
+        {
+            "Candidate": "Mapfumo Patrick",
+            "Party": "CCC",
+            "Votes": "3373"
+        }
+    ],
+    "Mwenezi West": [
+        {
+            "Candidate": "Chifumuro Brilliant",
+            "Party": "CCC",
+            "Votes": "1054"
+        },
+        {
+            "Candidate": "Moyo Priscilla",
+            "Party": "ZANU-PF",
+            "Votes": "14391"
+        },
+        {
+            "Candidate": "Shumba Tafadzwa Dhererai",
+            "Party": "INDEPENDENT",
+            "Votes": "6495"
+        }
+    ],
+    "Zaka Central": [
+        {
+            "Candidate": "Imbayarwo Pete",
+            "Party": "CCC",
+            "Votes": "0"
+        },
+        {
+            "Candidate": "Marapira Davis",
+            "Party": "ZANU-PF",
+            "Votes": "0"
+        }
+    ],
+    "Zaka North": [
+        {
+            "Candidate": "Murambiwa Ophias",
+            "Party": "ZANU-PF",
+            "Votes": "12620"
+        },
+        {
+            "Candidate": "Zanga Munyaradzi",
+            "Party": "CCC",
+            "Votes": "7079"
+        }
+    ],
+    "Zaka South": [
+        {
+            "Candidate": "Chiduwa Clemence",
+            "Party": "ZANU-PF",
+            "Votes": "14163"
+        },
+        {
+            "Candidate": "Manjengwah Trust Salpisio",
+            "Party": "CCC",
+            "Votes": "5536"
+        }
+    ]
+}

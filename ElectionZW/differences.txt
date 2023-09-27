@@ -1,0 +1,359 @@
+--- candidate_votes.json
+
++++ candidate_votesv2.json
+
+@@ -1,21 +1,4 @@
+
+ {
+
+-    "Bulawayo Central": [
+
+-        {
+
+-            "Candidate": "Bulawayo Central",
+
+-            "Party": "",
+
+-            "Votes": "0"
+
+-        },
+
+-        {
+
+-            "Candidate": "Kapoikilu Surrender",
+
+-            "Party": "CCC",
+
+-            "Votes": "0"
+
+-        },
+
+-        {
+
+-            "Candidate": "Charuka Tendayi",
+
+-            "Party": "ZANU PF",
+
+-            "Votes": "0"
+
+-        }
+
+-    ],
+
+     "Bulawayo North": [
+
+         {
+
+             "Candidate": "Gumede Minehle Ntandoyenkosi",
+
+@@ -1505,12 +1488,12 @@
+
+         {
+
+             "Candidate": "Kagura Agreement Takawira",
+
+             "Party": "CCC",
+
+-            "Votes": "0"
+
++            "Votes": "1423"
+
+         },
+
+         {
+
+             "Candidate": "Soda Zhemu",
+
+             "Party": "ZANU-PF",
+
+-            "Votes": "0"
+
++            "Votes": "21514"
+
+         }
+
+     ],
+
+     "Muzarabani South": [
+
+@@ -1856,56 +1839,56 @@
+
+         {
+
+             "Candidate": "Kasiriwori Unique",
+
+             "Party": "INDEPENDENT",
+
+-            "Votes": "0"
+
++            "Votes": "211"
+
+         },
+
+         {
+
+             "Candidate": "Mukapiko Dzikamai Lloyd",
+
+             "Party": "CCC",
+
+-            "Votes": "0"
+
++            "Votes": "10352"
+
+         },
+
+         {
+
+             "Candidate": "Moyo July",
+
+             "Party": "ZANU PF",
+
+-            "Votes": "0"
+
++            "Votes": "12167"
+
+         },
+
+         {
+
+             "Candidate": "Shamairai Lister",
+
+             "Party": "UZA",
+
+-            "Votes": "0"
+
++            "Votes": "105"
+
+         }
+
+     ],
+
+     "Silobela": [
+
+         {
+
+             "Candidate": "Jona Nyevera",
+
+             "Party": "ZANU PF",
+
+-            "Votes": "0"
+
++            "Votes": "11674"
+
+         },
+
+         {
+
+             "Candidate": "Munhazu Rafson",
+
+             "Party": "INDEPENDENT",
+
+-            "Votes": "0"
+
++            "Votes": "370"
+
+         },
+
+         {
+
+             "Candidate": "Ndebele Ephraim Makhele",
+
+             "Party": "ZAPU",
+
+-            "Votes": "0"
+
++            "Votes": "610"
+
+         },
+
+         {
+
+             "Candidate": "Ndlovu Ephraim",
+
+             "Party": "CCC",
+
+-            "Votes": "0"
+
++            "Votes": "7783"
+
+         }
+
+     ],
+
+     "Zhombe": [
+
+         {
+
+             "Candidate": "Ntini Benison Judah",
+
+             "Party": "CCC",
+
+-            "Votes": "0"
+
++            "Votes": "7482"
+
+         },
+
+         {
+
+             "Candidate": "Samambwa Edmore",
+
+             "Party": "ZANU PF",
+
+-            "Votes": "0"
+
++            "Votes": "14055"
+
+         }
+
+     ],
+
+     "Mberengwa Central": [
+
+@@ -2460,49 +2443,49 @@
+
+         {
+
+             "Candidate": "Dube Francis Engelbert",
+
+             "Party": "UZA",
+
+-            "Votes": "0"
+
++            "Votes": "308"
+
+         },
+
+         {
+
+             "Candidate": "Gumbo Dokotela",
+
+             "Party": "ZAPU",
+
+-            "Votes": "0"
+
++            "Votes": "834"
+
+         },
+
+         {
+
+             "Candidate": "Khumalo Sibangumuzi Sixtone",
+
+             "Party": "ZANU-PF",
+
+-            "Votes": "0"
+
++            "Votes": "5798"
+
+         },
+
+         {
+
+             "Candidate": "Moyo Vincent",
+
+             "Party": "INDEPENDENT",
+
+-            "Votes": "0"
+
++            "Votes": "170"
+
+         },
+
+         {
+
+             "Candidate": "Sibanda Libion",
+
+             "Party": "CCC",
+
+-            "Votes": "0"
+
++            "Votes": "7571"
+
+         }
+
+     ],
+
+     "Tsholotsho South": [
+
+         {
+
+             "Candidate": "Moyo Bongani",
+
+             "Party": "INDEPENDENT",
+
+-            "Votes": "0"
+
++            "Votes": "353"
+
+         },
+
+         {
+
+             "Candidate": "Mthombeni Leonard",
+
+             "Party": "ZAPU",
+
+-            "Votes": "0"
+
++            "Votes": "1180"
+
+         },
+
+         {
+
+             "Candidate": "Ncube Musa",
+
+             "Party": "ZANU-PF",
+
+-            "Votes": "0"
+
++            "Votes": "7885"
+
+         },
+
+         {
+
+             "Candidate": "Sibanda Tapson Nganunu",
+
+             "Party": "CCC",
+
+-            "Votes": "0"
+
++            "Votes": "7111"
+
+         }
+
+     ],
+
+     "Umguza": [
+
+@@ -3183,12 +3166,12 @@
+
+         {
+
+             "Candidate": "Mukwangwariwa Francis Garikai",
+
+             "Party": "ZANU-PF",
+
+-            "Votes": "0"
+
++            "Votes": "15246"
+
+         },
+
+         {
+
+             "Candidate": "Mutasa Oliver",
+
+             "Party": "CCC",
+
+-            "Votes": "0"
+
++            "Votes": "15435"
+
+         }
+
+     ],
+
+     "Zvimba West": [
